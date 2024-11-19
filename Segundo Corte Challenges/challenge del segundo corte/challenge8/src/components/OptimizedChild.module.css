@@ -1,0 +1,21 @@
+.container {
+    margin-top: 1rem;
+    padding: 1rem;
+    border: 2px dashed #28a745;
+    border-radius: 10px;
+    background-color: #e6ffe6;
+}
+
+.button {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    color: white;
+    background-color: #28a745;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #1e7b34;
+}
